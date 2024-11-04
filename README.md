@@ -1,4 +1,6 @@
-# Evaluating Social Learning Strategies: \The Impact of Skill Dependencies and Meta-Learning in an Agent-Based Model
+# Evaluating Social Learning Strategies: 
+The Impact of Skill Dependencies and Meta-Learning in an Agent-Based Model
+
 Research Master Psychology Internship at the University of Amsterdam
 
 Abstract: 
